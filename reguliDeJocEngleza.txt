@@ -1,0 +1,15 @@
+
+
+
+      The first player draws a horizontal or vertical line that 
+connects two adjacent dots of his own color. Then the other player does
+the same thing, connecting two adjacent dots of his color. 
+They take turns doing this.
+      The first player tries to form a continuous path of 
+lines from the top row of his dots to the bottom row. 
+The path does not have to be straight; it can twist in any way 
+so long as it connects opposite sides of the board.
+      The second player tries to form a similar path from the 
+left column of his color to the right end. Each of course uses his 
+lines for blocking the other player's path. 
+      The first player to complete his path is the winner!

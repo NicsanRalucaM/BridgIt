@@ -1,0 +1,15 @@
+
+
+
+        Primul jucator traseaza o linie orizontala sau verticala 
+care conecteaza douapuncte adiacente de propria sa culoare. 
+Apoi cel de-al doilea jucator procedeaza la fel, conectand doua puncte 
+adiacente ale culorii sale. Ei fac pe rand aceasta.
+        Primul jucator incearca sa formeze o cale continua de linii 
+de la randul de sus al punctelor sale pana la randul de jos. Calea nu 
+trebuie sa fie dreapta, se poate rasuci in orice fel atat timp cat se
+conecteaza laturile opuse ale tablei de joc.
+        Al doilea jucator incearca sa formeze o cale similara de la
+coloana stanga a culorii sale la capatul din dreapta. Fiecare, desigur
+isi foloseste liniile pentru a-si bloca oponentul.
+        Primul jucator care si-a completat drumul este castigatorul!
